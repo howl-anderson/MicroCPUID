@@ -2,7 +2,7 @@
 MicroCPUID is a assembly language (GNU Assembly / GAS) toy project. It detect and display CPU information. Just like `cat /proc/cpuinfo`.
 
 # Demo
-## This is what /proc/cpuinfo do
+## This is what `cat /proc/cpuinfo` do
 
     vendor_id       : GenuineIntel
     cpu family      : 6
@@ -39,4 +39,4 @@ MicroCPUID is a assembly language (GNU Assembly / GAS) toy project. It detect an
     model name  : Intel(R) Core(TM) CPU          Q 820  @ 1.73GHz
 
 ## Why MicroCPUID display so little information?
-This is my one-day work, don't have much functions :)
+This is author's one-day work, don't have much functions :)
